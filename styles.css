@@ -1,0 +1,43 @@
+#cardname {
+    width: 300px;
+    padding: 10px;
+    border-radius: 4px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:  #cccccc;
+    box-shadow: 5px 5px rgb(192, 192, 192);
+    background-color:lavenderblush;
+}
+
+.title { 
+    font-weight: bold;
+}
+
+.panda_picture {
+    width: 300px;
+}
+
+.interestingfact {
+    font-style: italic;
+}
+
+.Label {
+font-weight: bold;
+}
+
+#cardinfo {
+    width:300px;
+    padding: 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(192,192,192);
+
+    
+}
+
+
+#list {
+    list-style-type: none;  
+    padding: 0px;
+}
+
